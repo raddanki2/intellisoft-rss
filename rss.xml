@@ -5,11 +5,13 @@
     <link>https://www.intellisoft-tech.com/</link>
     <description>Official resources and updates from Intellisoft Technologies on Enterprise AI, Federal IT, cloud computing, cybersecurity and digital transformation.</description>
     <language>en-us</language>
-    <atom:link href="https://www.intellisoft-tech.com/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Nov 2026 11:00:00 GMT</lastBuildDate>
+    <atom:link href="https://raddanki2.github.io/intellisoft-rss/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Enterprise AI Services | Intellisoft Technologies</title>
       <link>https://www.intellisoft-tech.com/services/enterprise-ai-services</link>
       <guid isPermaLink="true">https://www.intellisoft-tech.com/services/enterprise-ai-services</guid>
+      <pubDate>Mon, 02 Nov 2026 11:00:00 GMT</pubDate>
       <description>Explore Intellisoft Technologies' Enterprise AI services and capabilities.</description>
       <category>Enterprise AI</category>
     </item>
@@ -17,6 +19,7 @@
       <title>Cloud Professional Services | Intellisoft Technologies</title>
       <link>https://www.intellisoft-tech.com/services/cloud-professional-services</link>
       <guid isPermaLink="true">https://www.intellisoft-tech.com/services/cloud-professional-services</guid>
+      <pubDate>Mon, 02 Nov 2026 10:00:00 GMT</pubDate>
       <description>Learn about Intellisoft Technologies' cloud professional services.</description>
       <category>Cloud Computing</category>
     </item>
@@ -24,6 +27,7 @@
       <title>IntelliCoSQL | Intellisoft Technologies</title>
       <link>https://www.intellisoft-tech.com/products/intellicosql</link>
       <guid isPermaLink="true">https://www.intellisoft-tech.com/products/intellicosql</guid>
+      <pubDate>Mon, 02 Nov 2026 10:00:00 GMT</pubDate>
       <description>Discover IntelliCoSQL, an Intellisoft Technologies product.</description>
       <category>Enterprise AI</category>
     </item>
