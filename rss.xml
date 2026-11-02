@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intellisoft Technologies | Enterprise AI &amp; Technology Insights</title>
+    <link>https://www.intellisoft-tech.com/</link>
+    <description>Official resources and updates from Intellisoft Technologies on Enterprise AI, Federal IT, cloud computing, cybersecurity and digital transformation.</description>
+    <language>en-us</language>
+    <atom:link href="https://www.intellisoft-tech.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enterprise AI Services | Intellisoft Technologies</title>
+      <link>https://www.intellisoft-tech.com/services/enterprise-ai-services</link>
+      <guid isPermaLink="true">https://www.intellisoft-tech.com/services/enterprise-ai-services</guid>
+      <description>Explore Intellisoft Technologies' Enterprise AI services and capabilities.</description>
+      <category>Enterprise AI</category>
+    </item>
+    <item>
+      <title>Cloud Professional Services | Intellisoft Technologies</title>
+      <link>https://www.intellisoft-tech.com/services/cloud-professional-services</link>
+      <guid isPermaLink="true">https://www.intellisoft-tech.com/services/cloud-professional-services</guid>
+      <description>Learn about Intellisoft Technologies' cloud professional services.</description>
+      <category>Cloud Computing</category>
+    </item>
+    <item>
+      <title>IntelliCoSQL | Intellisoft Technologies</title>
+      <link>https://www.intellisoft-tech.com/products/intellicosql</link>
+      <guid isPermaLink="true">https://www.intellisoft-tech.com/products/intellicosql</guid>
+      <description>Discover IntelliCoSQL, an Intellisoft Technologies product.</description>
+      <category>Enterprise AI</category>
+    </item>
+  </channel>
+</rss>
